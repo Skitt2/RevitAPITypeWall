@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\RevitAPITrainig\RevitAPITypeWall.dll"</Assembly>
+    <AddInId>7683EE5D-CA01-4067-9E7C-D221351D9AC8</AddInId>
+    <FullClassName>RevitAPITypeWall.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>RevitAPITypeWall</Text>
+  </AddIn>
+</RevitAddIns>
